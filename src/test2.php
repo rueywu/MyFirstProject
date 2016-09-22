@@ -1,7 +1,7 @@
 <?
 phpinfo();
 ?>
-<!-- 我也很會改 22222-->
+<!-- 我也很會改11111 -->
 <head>
  This is gabage
 </head>
