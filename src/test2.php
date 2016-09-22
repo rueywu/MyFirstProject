@@ -1,6 +1,7 @@
 <?
 phpinfo();
 ?>
+<!-- 我也很會改 -->
 <head>
  This is gabage
 </head>
